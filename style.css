@@ -40,12 +40,13 @@
 
 h1 {
   color: #f8f4f4;
+  font-size: 1.8rem;
   font-family: "Archivo", sans-serif;
   font-family: "Open Sans", sans-serif;
   font-family: "Poppins", sans-serif;
   font-weight: 500;
   text-align: center;
-  margin: -80px -30px;
+  margin: -70px -25px;
 }
 
 .main__cta {
